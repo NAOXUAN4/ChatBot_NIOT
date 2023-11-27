@@ -1,4 +1,4 @@
-# Bot_231325
+# Hi there ！😘 This is NIOT.
 
 ## 简介
 基于 智谱AI和清华大学 KEG 实验室联合发布的新一代对话预训练模型 ChatGLMx 系列  
