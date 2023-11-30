@@ -11,6 +11,7 @@
 1.3 运行基于 Gradio 的Demo  
 
 2.1 clone 本库（branch选择根据你安装的ChatGLMx 版本而定）  
+2.11 修改程序中对应的路径
 2.2 运行 ChatShin.bat
 
 
